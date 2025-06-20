@@ -4,7 +4,7 @@ DevOps with Multi Cloud by SATISH @ Sathya Technologies, Ameerpet, Hyd. Ph. No: 
 
 
 
-                                                   #   Linux Servers
+                                # Linux Servers
                                                    
 ## Unix Distributions:
 ----------------------------
@@ -27,12 +27,12 @@ DevOps with Multi Cloud by SATISH @ Sathya Technologies, Ameerpet, Hyd. Ph. No: 
 
 
 
-                                            ##  AWS-EC2 Instance
-                                            ------------------------------
-                                     * create a free AWS account   
-                                     * select "services" --> "compute"
-                                     * select "EC2" (Elastic compute cloud)
-                                     * select "Launch Instance"
+                                ##  AWS-EC2 Instance
+                                ------------------------
+                               * create a free AWS account   
+                               * select "services" --> "compute"
+                               * select "EC2" (Elastic compute cloud)
+                               * select "Launch Instance"
 
   Step-1: Name and tags --> Redhat server
 
