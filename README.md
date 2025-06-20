@@ -59,6 +59,7 @@ DevOps with Multi Cloud by SATISH @ Sathya Technologies, Ameerpet, Hyd. Ph. No: 
 ### Connect to Linux Server:
 ------------------------------------        
 $ cp ~/Downloads/DEVOPS_9AM.pem ~/Desktop/
+
 $ ssh -i "DEVOPS_9AM.pem" ec2-user@ec2-compute.amazonaws.com
 
 
